@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Netcore8\\TaskManagement_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\controllers\\taskmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Netcore8\\TaskManagement_BE\\Readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\appdata\\taskmanagemententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\appdata\\taskmanagemententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|d:\\netcore8\\taskmanagement_be\\taskmanagement_be\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92A9743-B9A7-4B81-A9EC-69EAC2D93FC8}|TaskManagement_BE\\TaskManagement_BE.csproj|solutionrelative:taskmanagement_be\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-18T18:04:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagementController.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Controllers\\TaskManagementController.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\Controllers\\TaskManagementController.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Controllers\\TaskManagementController.cs",
+              "RelativeToolTip": "TaskManagement_BE\\Controllers\\TaskManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:07:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\Program.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Program.cs",
+              "RelativeToolTip": "TaskManagement_BE\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:12:12.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\DTOs\\TaskDto.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "TaskManagement_BE\\DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:49:36.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\Repository\\TaskRepository.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement_BE\\Repository\\TaskRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:01:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManagementEntity.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\AppData\\TaskManagementEntity.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\AppData\\TaskManagementEntity.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\AppData\\TaskManagementEntity.cs",
+              "RelativeToolTip": "TaskManagement_BE\\AppData\\TaskManagementEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:51:54.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Model\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\Model\\TaskItem.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Model\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagement_BE\\Model\\TaskItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:33:28.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\appsettings.json",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\appsettings.json",
+              "RelativeToolTip": "TaskManagement_BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T05:15:03.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Repository\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement_BE\\Repository\\ITaskRepository.cs",
+              "ToolTip": "D:\\Netcore8\\TaskManagement_BE\\TaskManagement_BE\\Repository\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagement_BE\\Repository\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:00:03.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

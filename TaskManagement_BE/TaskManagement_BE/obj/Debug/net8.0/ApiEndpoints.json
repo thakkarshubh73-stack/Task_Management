@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "TaskManagement_BE.Controllers.TaskManagementController",
+    "Method": "GetAll",
+    "RelativePath": "api/TaskManagement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagement_BE.Controllers.TaskManagementController",
+    "Method": "Create",
+    "RelativePath": "api/TaskManagement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TaskManagement_BE.DTOs.TaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagement_BE.Controllers.TaskManagementController",
+    "Method": "Update",
+    "RelativePath": "api/TaskManagement/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "TaskManagement_BE.DTOs.TaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagement_BE.Controllers.TaskManagementController",
+    "Method": "Delete",
+    "RelativePath": "api/TaskManagement/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
